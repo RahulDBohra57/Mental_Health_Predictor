@@ -73,10 +73,3 @@ This project is intended for:
 
 🔹 Disclaimer: This project is for educational and research purposes only.
 It is not a diagnostic tool and should not replace professional medical judgment.
-
-📈 Future Improvements
-
-- Hyperparameter tuning for improved accuracy
-- Adding SHAP-based explainability
-- Deployment on cloud (AWS / GCP / Streamlit Cloud)
-- UI/UX enhancements for the prediction app
