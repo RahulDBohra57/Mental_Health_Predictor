@@ -1,6 +1,6 @@
 App Link: https://your-mental-health-predictor.streamlit.app/
 
-🧠 ML Applications for Mental Health Diagnosis
+ML Applications for Mental Health Diagnosis
 
 A Machine Learning approach to support early identification of mental health risks.
 
